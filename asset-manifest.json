@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kostiantyn1303-goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/Kostiantyn1303-goit-react-hw-04-feedback/static/js/main.2ac9854b.js",
+    "main.js": "/Kostiantyn1303-goit-react-hw-04-feedback/static/js/main.1843b533.js",
     "index.html": "/Kostiantyn1303-goit-react-hw-04-feedback/index.html",
     "main.7acaea2f.css.map": "/Kostiantyn1303-goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
-    "main.2ac9854b.js.map": "/Kostiantyn1303-goit-react-hw-04-feedback/static/js/main.2ac9854b.js.map"
+    "main.1843b533.js.map": "/Kostiantyn1303-goit-react-hw-04-feedback/static/js/main.1843b533.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.2ac9854b.js"
+    "static/js/main.1843b533.js"
   ]
 }
